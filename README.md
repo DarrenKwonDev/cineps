@@ -1,6 +1,8 @@
 # CINEPS
 
-<img src="./back/public/thumbnail.png" width=300>
+<div align="center">
+  <img src="./thumbnail.png" width=300>
+</div>
 
 ## 영화를 통해 연결을 꿈꾸는 예술 비평, 창작 커뮤니티 Cineps
 

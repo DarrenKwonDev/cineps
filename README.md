@@ -8,6 +8,8 @@
 
 영화 동아리의 사이드 프로젝트로 만든 게시판형 커뮤니티입니다.  
 
+[개발 후기 ](https://darrengwon.tistory.com/category/%F0%9F%93%91%20Project/%F0%9F%93%91%20Next-Cineps%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EC%A7%80)
+
 [cineps 바로가기](https://cineps.net)
 
 ## Tech Stack

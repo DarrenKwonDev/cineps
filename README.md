@@ -14,6 +14,10 @@
 
 ## Tech Stack
 
+<div align="center">
+  <img src="./stack.PNG" width=300>
+</div>
+
 - [x] Next
 - [x] Express
 - [x] Redux

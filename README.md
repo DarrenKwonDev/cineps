@@ -12,10 +12,16 @@
 
 [cineps 바로가기](https://cineps.net)
 
-## Tech Stack
+## Arch  
 
 <div align="center">
-  <img src="./stack.PNG" width=300>
+  <img src="./cineps-arch.PNG">
+</div>
+
+## Tech Stack  
+
+<div align="center">
+  <img src="./stack.PNG" width=400>
 </div>
 
 - [x] Next
